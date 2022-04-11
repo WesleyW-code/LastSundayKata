@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\bin\Debug\net6.0\LastSundayKata.exe
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\bin\Debug\net6.0\LastSundayKata.deps.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\bin\Debug\net6.0\LastSundayKata.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\bin\Debug\net6.0\LastSundayKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\bin\Debug\net6.0\LastSundayKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\refint\LastSundayKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\LastSundayKata.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\LastSundayKata\LastSundayKata\obj\Debug\net6.0\ref\LastSundayKata.dll
